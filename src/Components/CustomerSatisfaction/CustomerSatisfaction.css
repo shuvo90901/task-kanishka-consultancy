@@ -1,0 +1,29 @@
+.first {
+    background-image: url('../../assets/numbers-01-th.png');
+    background-repeat: no-repeat;
+}
+
+.second {
+    background-image: url('../../assets/numbers-02-th.png');
+    background-repeat: no-repeat;
+}
+
+.third {
+    background-image: url('../../assets/numbers-03-th.png');
+    background-repeat: no-repeat;
+}
+
+.fourth {
+    background-image: url('../../assets/numbers-04-th.png');
+    background-repeat: no-repeat;
+}
+
+.fifth {
+    background-image: url('../../assets/numbers-05-th.png');
+    background-repeat: no-repeat;
+}
+
+.sixth {
+    background-image: url('../../assets/numbers-06-th.png');
+    background-repeat: no-repeat;
+}

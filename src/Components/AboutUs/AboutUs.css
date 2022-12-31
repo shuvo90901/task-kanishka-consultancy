@@ -1,0 +1,8 @@
+.grid-about {
+    display: grid;
+    grid-template-columns: 6fr 4fr;
+}
+
+p {
+    line-height: 30px;
+}
